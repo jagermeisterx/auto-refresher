@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Auto-Refresher con Alarma",
+  "version": "1.1",
+  "description": "Recarga la página y avisa con sonido.",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
